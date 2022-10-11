@@ -1,6 +1,6 @@
 ### Homework #4: Bar Chart Racer
 
-#### Due: Monday, Nov 1, start of class.
+#### Due: Friday, October 21 at start of class.
 
 (This assignment is based on a similar one developed by Kevin Wayne at Princeton and presented at SIGCSE's Nifty Assignments Symposium. The Bar Chart code was written by him.)
 
